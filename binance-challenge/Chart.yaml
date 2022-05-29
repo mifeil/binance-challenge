@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for test challange
+name: binance-challenge
+version: 0.0.1
